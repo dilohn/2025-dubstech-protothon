@@ -1,2 +1,2 @@
-# 2025-dubstech-protothon
-submission for 2025 dubstech protothon
+# What is This?
+Prototype for the 2025 UW Protothon.
